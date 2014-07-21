@@ -1,0 +1,1 @@
+My work as I follow this tutorial: http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/
